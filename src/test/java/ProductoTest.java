@@ -1,4 +1,4 @@
-import com.valery.testing.Producto;
+import com.luis.testing.Producto;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
